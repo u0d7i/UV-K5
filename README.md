@@ -1,6 +1,8 @@
 # UV-K5
 Quansheng UV-K5 notes
 
+Vendor product page: http://qsfj.com/products/3002
+
 ## CHIRP
 
 [CHIRP](https://chirpmyradio.com/) is a free, open-source tool for programming your radio.
