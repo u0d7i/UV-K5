@@ -41,3 +41,4 @@ https://fccid.io/XBPUV-K5
 - https://github.com/sq5bpf/k5prog
 - https://github.com/sq5bpf/uvk5-reverse-engineering
 - https://github.com/losehu/uv-k5-bootloader-custom
+- https://github.com/piotr022/UV_K5_playground
