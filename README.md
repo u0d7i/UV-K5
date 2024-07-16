@@ -33,3 +33,11 @@ from here: https://fcc.report/FCC-ID/XBPUV-K5/6401581.pdf
 ## FCC Report
 https://fccid.io/XBPUV-K5
 
+## Links
+- https://github.com/dkxce/Quansheng-UV-K5/
+- https://github.com/spm81/Quansheng_UV-K5/
+- https://github.com/amnemonic/Quansheng_UV-K5_Firmware
+- https://github.com/DualTachyon/uv-k5-firmware
+- https://github.com/sq5bpf/k5prog
+- https://github.com/sq5bpf/uvk5-reverse-engineering
+- https://github.com/losehu/uv-k5-bootloader-custom
